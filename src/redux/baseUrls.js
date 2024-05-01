@@ -1,0 +1,1 @@
+export const baseUrl = 'https://hotel-booking-eb861-default-rtdb.firebaseio.com/'

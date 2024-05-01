@@ -1,0 +1,9 @@
+/* Header.css */
+.navbar_color {
+     background-color: #C1D8C3;
+}
+
+.navbar_color .navbar-brand,
+.navbar_color .nav-link {
+     color: #537188;
+}
